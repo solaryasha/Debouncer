@@ -1,0 +1,12 @@
+body {
+  font-family: sans-serif;
+}
+  
+input {
+  display: block;
+  margin-bottom: 1rem;
+}
+button {
+  display: block;
+}
+  
