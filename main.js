@@ -10,7 +10,7 @@ function decorator(func, time) {
   };
 }
 
-let wrapper = decorator(updateText, 5000);
+let wrapper = decorator(updateText, 2000);
 
 input.addEventListener('input', wrapper);
 
